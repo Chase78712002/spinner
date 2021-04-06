@@ -42,6 +42,3 @@ setTimeout(() => {
   process.stdout.write('\r-  ');
   console.log();
 }, 2100);
-
-
-
